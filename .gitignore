@@ -1,3 +1,7 @@
+build/
+.Saved/
+_arc/
+_doc/
 .DS_Store
 .idea
 .vscode
@@ -9,3 +13,6 @@
 node_modules/
 npm-debug.*
 Thumbs.db
+FarMenu.ini
+*.min.css
+*.min.js
